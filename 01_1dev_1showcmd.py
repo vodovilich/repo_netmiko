@@ -1,12 +1,12 @@
 from netmiko import ConnectHandler
 iol_01 = {
         'device_type': 'cisco_ios',
-        'host': '192.168.100.13', 
+        'host': '192.168.100.6', 
         'username': 'gandalf', 
         'password': 'grey'}
 iol_02 = {
         'device_type': 'cisco_ios',
-        'host': '192.168.100.12',
+        'host': '192.168.100.5',
         'username': 'gandalf',
         'password': 'grey'}
 
