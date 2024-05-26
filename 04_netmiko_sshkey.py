@@ -4,11 +4,11 @@ from netmiko import ConnectHandler
 
 iol_01 = {
         'device_type': 'cisco_ios',
-        'host': '192.168.100.7', 
-        'username': 'frodo', 
+        'host': '192.168.100.8', 
+        'username': 'gandalf', 
         'use_keys': True,
         'timeout': 15,
-        'key_file': '/home/gandalf/.ssh/frodo_id_rsa'}
+        'key_file': '/home/gandalf/.ssh/id_rsa'}
 
 #'ssh_config_file': '/Users/username/.ssh/ssh_config'
 

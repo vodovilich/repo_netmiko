@@ -1,0 +1,10 @@
+- 192.168.100.8
+- 192.168.100.9
+- 193.168.100.9
+#from netmiko.exceptions import NetmikoTimeoutException
+#from netmiko.exceptions import AuthenticationException
+#from netmiko.exceptions import SSHException
+#except (NetmikoTimeoutException)
+#
+
+
